@@ -3,10 +3,10 @@
 #include <stdio.h>
 
 /**
- * main - print a random number
+ * main - Determines if a number is positive, negative,
  *
  * Return: 0
- */
+**/
 int main(void)
 {
 	int n;
