@@ -15,4 +15,3 @@ while
 	}
 	return (longi);
 }
-
